@@ -1,6 +1,10 @@
 # Node DB 4 Guided Project
 
-Guided project for **Node DB 4** Module.
+Guided project for **Node DB 4** Module
+
+## Author
+
+Sascha Majewsky
 
 ## Prerequisites
 
